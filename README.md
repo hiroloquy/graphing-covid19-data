@@ -11,14 +11,8 @@ Please go to the **NHK (Japan Broadcasting Corporation)** website and download "
 ## Author
 * Hiro Shigeyoshi
 * Twitter: [@hiroloquy](https://twitter.com/hiroloquy)
-
-### Blog
-Under construction...
-<!-- This article is written in detail and in Japanese. You can translate it in your language.  
-https://hiroloquy.com/2021/07/11/rounded-pentagram-animation/ -->
-
-### YouTube
-http://www.youtube.com/watch?v=iVy3zA0Ll8c  
+* Blog: https://hiroloquy.com/
+* YouTube: https://www.youtube.com/channel/UC266rJEcuVzYtJ6ZB2h0rmg
 [![Graphing the number of positive and deaths of COVID-19 in Japan over the past 2 years [gnuplot]](http://img.youtube.com/vi/iVy3zA0Ll8c/0.jpg)](http://www.youtube.com/watch?v=iVy3zA0Ll8c "Graphing the number of positive and deaths of COVID-19 in Japan over the past 2 years [gnuplot]")
 
 ## License
